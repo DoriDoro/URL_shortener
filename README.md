@@ -2,7 +2,7 @@
 
 
 ## Description:
-The backend is a Django application and creates a URL shortener. On the frontend a to do application is build with React. The app is deployed on Heroku.
+The backend is a Django application and creates a URL shortener. The app is deployed on Heroku.
 
 
 ## Installation process:
