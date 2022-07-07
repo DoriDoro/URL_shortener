@@ -19,5 +19,5 @@ The backend is a Django application and creates a URL shortener. The app is depl
 
 
 ## Heroku website URL:
-
+https://shorten-url-project-2002.herokuapp.com/graphql
 
